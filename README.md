@@ -11,3 +11,5 @@ This project analyzes resumes using Python and NLP-based techniques to extract s
 
 ## Current Progress
 - Resume PDF text extraction completed
+- Skill extraction system implemented
+- Basic NLP preprocessing added
