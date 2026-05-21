@@ -44,3 +44,35 @@ print("Skills Found:")
 
 for skill in found_skills:
     print("-", skill)
+
+# required job skills
+required_skills = [
+    "python",
+    "sql",
+    "pandas",
+    "machine learning"
+]
+
+# matched skills
+matched_skills = []
+
+for skill in required_skills:
+    if skill in found_skills:
+        matched_skills.append(skill)
+
+# calculate score
+score = (len(matched_skills) / len(required_skills)) * 100
+
+print("\nMatched Skills:")
+print(matched_skills)
+
+print(f"\nResume Score: {score:.2f}%")
+
+missing_skills = []
+
+for skill in required_skills:
+    if skill not in found_skills:
+        missing_skills.append(skill)
+
+print("\nMissing Skills:")
+print(missing_skills)
