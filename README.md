@@ -10,6 +10,7 @@ This project analyzes resumes using Python and NLP-based techniques to extract s
 - Streamlit
 
 ## Current Progress
-- Resume text extraction completed
+- Resume parsing completed
 - Skill extraction system implemented
-- Resume scoring and missing skill detection added
+- Resume scoring system added
+- Resume analytics visualizations created
