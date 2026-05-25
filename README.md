@@ -57,10 +57,11 @@ README.md
 ## Final Insights
 
 - Resume automation can significantly reduce recruiter workload.
-- ATS scoring helps shortlist relevant candidates efficiently.
-- Visualization improves resume interpretation and decision-making.
-- Missing skill analysis helps identify learning opportunities.
+- ATS scoring helps shortlist candidates efficiently.
+- Missing skill analysis identifies candidate improvement areas.
+- Visualization improves resume interpretation and hiring decisions.
+- Automation systems improve scalability in large hiring processes.
 
 ## Business Value
 
-This project helps recruiters automate resume screening, reduce manual effort, identify qualified candidates faster, and improve hiring efficiency using resume analytics and ATS scoring.
+This project helps automate resume screening using NLP preprocessing, skill extraction, ATS scoring, and visualization techniques. It reduces manual recruiter effort and improves candidate shortlisting efficiency during large-scale hiring.
